@@ -1,5 +1,4 @@
-# hello-world
-
+# vue-world-app
 ## Project setup
 ```
 npm install
